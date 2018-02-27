@@ -1,0 +1,12 @@
+{
+    "name": "jn/composer-demo",
+    "authors": [
+        {
+            "name": "Johan Nordström",
+            "email": "johan@digitalvillage.se"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.7"
+    }
+}
